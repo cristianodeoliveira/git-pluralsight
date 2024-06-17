@@ -1,3 +1,7 @@
 This is the third file
 This is a change to the third file
 This another change to test git diff
+line 4
+line 5
+line 6
+line 7
