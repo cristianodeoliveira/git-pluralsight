@@ -1,3 +1,0 @@
-This is a new file
-Something that I just created to use and test git.
-Nothing less, nothing more
