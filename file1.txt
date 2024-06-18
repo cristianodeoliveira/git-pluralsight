@@ -1,3 +1,6 @@
 This is a new file
 Something that I just created to use and test git.
 Nothing less, nothing more
+
+Just made a change to this file in the Feature branch
+I will make a change to the same file under the main branch.
